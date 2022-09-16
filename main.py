@@ -1,6 +1,12 @@
 import sort
 import search
 
+"""
+
+This is the main file for the assignment
+
+"""
+
 class_grades: list[tuple[str, int]] = [
     ("Nolan M.", 83),
     ("James T.", 56),
